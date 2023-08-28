@@ -18,9 +18,9 @@
 <br>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning Advanced topics in **Machine learning and AI **topic
-- 👯 I’m looking to collaborate on **AI projects**.
-- 💬 Ask me about ** Python, C, C++ **.
+- 🌱 I’m currently learning Advanced topics in **Machine learning and AI** topic.
+- 👯 I’m looking to collaborate on **AI projects** .
+- 💬 Ask me about **Python, C, C++** .
 - 📫 How to reach me momostafa110022@gmail.com.
 
 <br>
