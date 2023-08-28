@@ -17,21 +17,21 @@
 <br>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning Advanced topics in Android development.
-- 👯 I’m looking to collaborate on Android projects.
-- 💬 Ask me about Kotlin, Android Framework.
-- 📫 How to reach me bodyasharaf8@gmail.com.
+- 🌱 I’m currently learning Advanced topics in Machine learning and AI topic
+- 👯 I’m looking to collaborate on AI projects.
+- 💬 Ask me about Python, C, C++.
+- 📫 How to reach me momostafa110022@gmail.com.
 
 <br>
 
-## 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AbdoSharaf74)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdo_sharaf9)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdosharaf)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdosharaf9)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16347044)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdo_sharaf9)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Mo_Mostafaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mo_Mostafaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-mostafaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mostafaaa" height="30" width="40" /></a>
+<a href="https://www.facebook.com/MoMostafa0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MoMostafa0" height="30" width="40" /></a>
+<a href="https://instagram.com/mohamed._.mostafaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=mohamed._.mostafaaa" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Mohamed_Mostafaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mohamed_Mostafaa" height="30" width="40" /></a>
+</p>
 
 
 <br>
