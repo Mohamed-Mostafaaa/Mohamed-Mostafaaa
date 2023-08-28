@@ -45,8 +45,6 @@
 <details open>
     <summary><h2>🧰 Languages & Tools:</h2></summary>
     <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=40px title = "Python"/>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width=40px alt="C++" title="C++"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width=40px alt="Python" title="Python"/>
