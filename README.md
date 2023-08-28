@@ -17,9 +17,9 @@
 <br>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning Advanced topics in Machine learning and AI topic
-- 👯 I’m looking to collaborate on AI projects.
-- 💬 Ask me about Python, C, C++.
+- 🌱 I’m currently learning Advanced topics in **Machine learning and AI **topic
+- 👯 I’m looking to collaborate on **AI projects**.
+- 💬 Ask me about ** Python, C, C++ **.
 - 📫 How to reach me momostafa110022@gmail.com.
 
 <br>
@@ -45,31 +45,21 @@
 <details open>
     <summary><h2>🧰 Languages & Tools:</h2></summary>
     <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=40px title = "Python"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width=40px alt="C++" title="C++"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width=40px alt="Python" title="Python"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" width=40px alt="MySQL" title="MySQL"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width=40px alt="Java" title="Java"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width=40px title = "CSS"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-2038873-1720086.png" width=40px alt="Kotlin" title="Kotlin"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=40px title="HTML"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=40px alt="Android Studio" title="Android Studio"/>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.iconscout.com/icon/free/png-256/gradle-2-1174969.png" width=40px alt="Gradle" title="Gradle"/>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.iconscout.com/icon/free/png-256/graphql-3521468-2944912.png" width=40px alt="GraphQL" title="GraphQL"/>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width=40px alt="Firebase" title="Firebase"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width=40px title="Linux"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" width=40px alt="VS Code" title="VS Code"/>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://img.icons8.com/color/512/adobe-xd--v1.png" width=40px alt="Adobe XD" title="Adobe XD"/>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png" width=40px alt="Notion" title="Notion"/>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" width=40px alt="Postman" title="Postman"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" width=40px alt="Slack" title="Slack"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -77,7 +67,6 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=40px alt="GitHub" title="GitHub"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width=40px alt="BitBucket" title="BitBucket"/>
     </p>
 </details>
     
