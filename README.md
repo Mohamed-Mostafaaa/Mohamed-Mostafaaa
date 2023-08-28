@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+to+my+GitHub)](https://git.io/typing-svg)
 <h1 align="center">Hi there 👋, I'm Mohamed Mostafa</h1>
 <h3 align="center">AI Engineer from Egypt</h3>
 
@@ -9,12 +10,9 @@
 
 </p>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Mostafaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Fredrick-Waihenya" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Mostafaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Mostafaaa" />
  </p>
  
-[![wakatime](https://wakatime.com/badge/user/32d5c148-348d-4fed-914f-a0e741f33867.svg)](https://wakatime.com/@32d5c148-348d-4fed-914f-a0e741f33867)
-
-
 
 <br>
 
