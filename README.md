@@ -79,7 +79,7 @@
                 <td width="50%" align="center">
                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
                     <br><br>
-                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=tokyonight&hide_border=true"/>
+                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=algolia&hide_border=true"/>
                 </td>
                 <td width="50%" align="center">
                     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
