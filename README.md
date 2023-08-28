@@ -76,12 +76,12 @@
         <table border="0" align="center">
             <tr border="0">
                 <td width="50%" align="center">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
                     <br><br>
-                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdosharaf9&theme=tokyonight&hide_border=true"/>
+                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=tokyonight&hide_border=true"/>
                 </td>
                 <td width="50%" align="center">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
                 </td>
             </tr>
        </table>
@@ -92,7 +92,7 @@
 <details open>
     <summary><h2>🏆 GitHub Trophies</h2></summary>
     <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=abdosharaf9&theme=tokyonight&no-frame=true&no-bg=false&margin-w=20&margin-h=20&column=-1"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Mostafaaa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=20&margin-h=20&column=-1"/>
     </div>
 </details>
 
@@ -103,14 +103,14 @@
 <details open>
     <summary><h3>🔝 Top Contributed Repos</h3></summary>
     <div align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=abdosharaf9&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+        <img src="https://github-contributor-stats.vercel.app/api?username=Mohamed-Mostafaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
     </div>
 </details>
     
 
 ---
 
-
+<!--
 <details open>
     <summary><h3>✍️ Random Dev Quote</h3></summary>
     <div align="center">
