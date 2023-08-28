@@ -77,7 +77,7 @@
         <table border="0" align="center">
             <tr border="0">
                 <td width="50%" align="center">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
                     <br><br>
                     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=algolia&hide_border=true"/>
                 </td>
