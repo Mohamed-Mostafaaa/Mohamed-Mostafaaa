@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+to+my+GitHub)](https://git.io/typing-svg)
 <h1 align="center">Hi there 👋, I'm Mohamed Mostafa</h1>
-<h3 align="center">undergraduate CS - AI Engineer from Egypt</h3>
+<h3 align="center">undergraduate CS - AI Engineer</h3>
 
 
 <p align="center">
