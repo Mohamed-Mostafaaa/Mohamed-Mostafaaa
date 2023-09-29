@@ -80,7 +80,7 @@
                     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=algolia&hide_border=true"/>
                 </td>
                 <td width="50%" align="center">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=pie"/>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie"/>
                 </td>
             </tr>
        </table>
