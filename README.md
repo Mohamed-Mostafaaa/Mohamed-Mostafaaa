@@ -88,7 +88,7 @@
 
 <br>
 
-<details open>
+<details close>
     <summary><h2>🏆 GitHub Trophies</h2></summary>
     <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Mostafaaa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=20&margin-h=20&column=-1"/>
