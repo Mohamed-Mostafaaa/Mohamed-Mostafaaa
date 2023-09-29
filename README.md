@@ -13,7 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Mostafaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Mostafaaa" />
  </p>
  
-<p align="left"> <a href="https://twitter.com/Mo_Mostafaa" target="blank"><img src="https://img.shields.io/twitter/follow/Mo_Mostafaa?logo=twitter&style=for-the-badge" alt="Mo_Mostafaa" /></a> </p>
 
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
@@ -27,7 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mo_Mostafaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mo_Mostafaa" height="30" width="40" /></a>
+<a href="https://twitter.com/Mo_Mostafaa" target="blank"><img src="https://img.shields.io/twitter/follow/Mo_Mostafaa?logo=twitter&style=for-the-badge" alt="Mo_Mostafaa" /></a>
+
 <a href="https://linkedin.com/in/mohamed-mostafaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mostafaaa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MoMostafa0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MoMostafa0" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed._.mostafaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=mohamed._.mostafaaa" height="30" width="40" /></a>
