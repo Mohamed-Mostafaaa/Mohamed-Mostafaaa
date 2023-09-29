@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/Mo_Mostafaa" target="blank"><img src="https://img.shields.io/twitter/follow/Mo_Mostafaa?logo=twitter&style=for-the-badge" alt="Mo_Mostafaa" /></a> </p>
 
 <br>
-
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 ## 💫 About Me:
 - 🌱 I’m currently learning Advanced topics in **Machine learning and AI** topic.
 - 👯 I’m looking to collaborate on **AI projects** .
