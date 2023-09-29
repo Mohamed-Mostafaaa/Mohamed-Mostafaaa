@@ -70,7 +70,7 @@
 
 <br>
 
-<details close>
+<details open>
     <summary><h2>📊 GitHub Stats:</h2></summary>
         <table border="0" align="center">
             <tr border="0">
