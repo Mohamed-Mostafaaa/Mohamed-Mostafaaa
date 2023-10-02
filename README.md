@@ -20,7 +20,7 @@
  - 🌱 I’m currently learning Advanced topics in **Machine learning and AI** topic.<br>
  - 👯 I’m looking to collaborate on **AI projects** .<br>
  - 💬 Ask me about **Python, C, C++** .<br>
- - 📫 How to reach me [momostafa110022@gmail.com](mailto:momostafa110022@gmail.com).
+ - 📫 How to reach me [momostafa110022@gmail.com](./mailto:momostafa110022@gmail.com).
 
 <br>
 
