@@ -40,11 +40,10 @@
 
 <!-- Profile views count -->
 <!-- [![](https://visitcount.itsvg.in/api?id=abdosharaf9&icon=5&color=1)](https://visitcount.itsvg.in) -->
-
----
-<details open>
-    <summary><h2>🧰 Languages & Tools:</h2></summary>
+<h3><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="18"/>  LANGUAGES AND TOOLS:</h3>
     <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" title="C"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width=40px alt="C++" title="C++"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width=40px alt="Python" title="Python"/>
@@ -65,31 +64,22 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=40px alt="GitHub" title="GitHub"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40px" title="bash"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
     </p>
-</details>
     
 
 <br>
-
-<details open>
-    <summary><h2>📊 GitHub Stats:</h2></summary>
-        <table border="0" align="center">
-            <tr border="0">
-                <td width="50%" align="center">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
-                    <br><br>
-                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=algolia&hide_border=true"/>
-                </td>
-                <td width="50%" align="center">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=pie"/>
-                </td>
-            </tr>
-       </table>
-</details>
+<h3 ><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="18"/> GITHUB STATS:</h3>
+<div align="center">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&layout=compact&theme=dark&langs_count=15" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=dark&layout=compact&include_all_commits=true&count_private=true&show_icons=true"/>
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=dark" alt="Mohamed-Mostafaaa" />
+</div>
 
 <br>
 
-<details open>
+<details close>
     <summary><h2>🏆 GitHub Trophies</h2></summary>
     <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Mostafaaa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=20&margin-h=20&column=-1"/>
@@ -100,7 +90,7 @@
 <br>
 
 
-<details open>
+<details close>
     <summary><h3>🔝 Top Contributed Repos</h3></summary>
     <div align="center">
         <img src="https://github-contributor-stats.vercel.app/api?username=Mohamed-Mostafaaa&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
