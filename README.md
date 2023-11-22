@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+to+my+GitHub)](https://git.io/typing-svg)
 <h1 align="center">Hi there 👋, I'm Mohamed Mostafa</h1>
-<h3 align="center">undergraduate CS - AI Engineer</h3>
+<h3 align="center">Undergraduate CS | ALX SE Student | AI Engineer</h3>
 
 
 <p align="center">
@@ -22,6 +22,10 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 ## 💫 About Me:
+- 🏛 I'm a Computer Science Student at Damietta University.
+- 💡 I'm a passionate learner who's always willing to learn and work across technologies and domains
+- ✨ I love to explore new technologies and leverage them to solve real-life problems.
+- 🕸️ I also do some Web Development and learn AI track.
 - 🌱 I’m currently learning Advanced topics in **Machine learning and AI** topic.
 - 👯 I’m looking to collaborate on **AI projects** .
 - 💬 Ask me about **Python, C, C++** .
