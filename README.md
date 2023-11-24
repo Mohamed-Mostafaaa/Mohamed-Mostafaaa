@@ -29,21 +29,12 @@
 - 🌱 I’m currently learning Advanced topics in **Machine learning and AI** topic.
 - 👯 I’m looking to collaborate on **AI projects** .
 - 💬 Ask me about **Python, C, C++** .
-- 📫 How to reach me **https://linktr.ee/mohamedmostafaa**
-
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Mo_Mostafaa" target="blank"><img src="https://img.shields.io/twitter/follow/Mo_Mostafaa?logo=twitter&style=for-the-badge" alt="Mo_Mostafaa" /></a><br>
-<a href="https://linkedin.com/in/mohamed-mostafaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mostafaaa" height="30" width="40" /></a>
-<a href="https://www.facebook.com/MoMostafa0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MoMostafa0" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed._.mostafaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=mohamed._.mostafaaa" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Mohamed_Mostafaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mohamed_Mostafaa" height="30" width="40" /></a>
-</p>
+## 📫 How to reach me 
+ **https://linktr.ee/mohamedmostafaa**
 
 <br>
-
 
 
 <!-- Profile views count -->
