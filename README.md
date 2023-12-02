@@ -9,10 +9,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=AI+Engineer;Software+Engineer;)](https://git.io/typing-svg)
 
 </p>
-
+<!--
 <p> 
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Mostafaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Mostafaaa" />
  </p>
+ -->
  <p>
   <img src="https://img.shields.io/github/last-commit/Mohamed-Mostafaaa/Mohamed-Mostafaaa?color=blue&label=last%20updated&style=flat" />
 </p>
