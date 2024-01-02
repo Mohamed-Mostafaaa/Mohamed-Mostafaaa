@@ -1,8 +1,9 @@
+<!-- @format -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+to+my+GitHub)](https://git.io/typing-svg)
 
 <h1 align="center">Hi there 👋, I'm Mohamed Mostafa</h1>
 <h3 align="center">Undergraduate CS Student | ALX SE Student | ML & DL Student</h3>
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -18,12 +19,13 @@
  <p>
   <img src="https://img.shields.io/github/last-commit/Mohamed-Mostafaaa/Mohamed-Mostafaaa?color=blue&label=last%20updated&style=flat" />
 </p>
- 
+
 
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 ## 💫 About Me:
+
 - 🏛 I'm a Computer Science Student at Damietta University.
 - 💡 I'm a passionate learner who's always willing to learn and work across technologies and domains
 - ✨ I love to explore new technologies and leverage them to solve real-life problems.
@@ -31,13 +33,13 @@
 - 🌱 I’m currently learning Advanced topics in **Machine learning and AI** topic.
 - 👯 I’m looking to collaborate on **AI projects** .
 - 💬 Ask me about **Python, C, C++** .
+  <br>
+
+## 📫 How to reach me
+
+**https://linktr.ee/mohamedmostafaa**
+
 <br>
-
-## 📫 How to reach me 
- **https://linktr.ee/mohamedmostafaa**
-
-<br>
-
 
 <!-- Profile views count -->
 <!-- [![](https://visitcount.itsvg.in/api?id=abdosharaf9&icon=5&color=1)](https://visitcount.itsvg.in) -->
@@ -68,7 +70,7 @@
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40px" title="bash"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
     </p>
-    
+
 
 <br>
 <h3 ><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="18"/> GITHUB STATS:</h3>
@@ -87,9 +89,7 @@
     </div>
 </details>
 
-
 <br>
-
 
 <details close>
     <summary><h3>🔝 Top Contributed Repos</h3></summary>
@@ -97,10 +97,9 @@
         <img src="https://github-contributor-stats.vercel.app/api?username=Mohamed-Mostafaaa&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
     </div>
 </details>
-    
+
 
 ---
-
 
 <details open>
     <summary><h3>✍️ Random Dev Quote</h3></summary>
@@ -108,9 +107,9 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
     </div>
 </details>
-    
 
 
+<!--
 ## 😂 Random Dev Meme
 <div align="center">
     <img src="https://rm.up.railway.app/" width="512px"/>
@@ -120,4 +119,4 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=abdo_sharaf9)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+ -->
