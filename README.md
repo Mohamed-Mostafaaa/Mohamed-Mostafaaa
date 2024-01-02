@@ -101,7 +101,7 @@
 
 ---
 
-<!--
+
 <details open>
     <summary><h3>✍️ Random Dev Quote</h3></summary>
     <div align="center">
@@ -110,7 +110,7 @@
 </details>
     
 
-<!--
+
 ## 😂 Random Dev Meme
 <div align="center">
     <img src="https://rm.up.railway.app/" width="512px"/>
@@ -119,5 +119,5 @@
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=abdo_sharaf9)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
+[![](https://gtce.itsvg.in/api?username=abdo_sharaf9)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
