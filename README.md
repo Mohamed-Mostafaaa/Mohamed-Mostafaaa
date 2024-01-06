@@ -8,13 +8,14 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=AI+Engineer;Software+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Software+Engineer;Competitve+programmer;)](https://git.io/typing-svg)
 
 </p>
 
-<p> 
+  ![](https://visitcount.itsvg.in/api?id=Mohamed-Mostafaaa)
+<!--<p> 
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Mostafaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Mostafaaa" />
- </p>
+ </p>-->
  
  <p>
   <img src="https://img.shields.io/github/last-commit/Mohamed-Mostafaaa/Mohamed-Mostafaaa?color=blue&label=last%20updated&style=flat" />
@@ -40,8 +41,6 @@
 
 <br>
 
-<!-- Profile views count -->
-<!-- [![](https://visitcount.itsvg.in/api?id=abdosharaf9&icon=5&color=1)](https://visitcount.itsvg.in) -->
 <h3><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="18"/>  LANGUAGES AND TOOLS:</h3>
     <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" title="C"/>
@@ -73,13 +72,24 @@
 <br>
 <h3 ><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="18"/> GITHUB STATS:</h3>
 <div align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&layout=compact&theme=dark&langs_count=15" />
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=dark&layout=compact&show_icons=true&locale=en"/>
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=dark&layout=compact&include_all_commits=true&show_icons=true" alt="Mohamed-Mostafaaa" />
 </div>
 
 <br>
 
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Mostafaaa&theme=radical)
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&layout=compact&theme=radical)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Mostafaaa&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Mostafaaa&theme=radical)
+<br>
 <details close>
     <summary><h2>🏆 GitHub Trophies</h2></summary>
     <div align="center">
