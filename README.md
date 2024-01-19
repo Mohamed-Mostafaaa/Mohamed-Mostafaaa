@@ -12,14 +12,11 @@
 
 </p>
 
-  ![](https://visitcount.itsvg.in/api?id=Mohamed-Mostafaaa)
-<!--<p> 
+![](https://visitcount.itsvg.in/api?id=Mohamed-Mostafaaa)
+
+<!--<p>
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Mostafaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Mostafaaa" />
  </p>-->
- 
- <p>
-  <img src="https://img.shields.io/github/last-commit/Mohamed-Mostafaaa/Mohamed-Mostafaaa?color=blue&label=last%20updated&style=flat" />
-</p>
 
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
@@ -78,7 +75,6 @@
 
 <br>
 
-
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Mostafaaa&theme=radical)
@@ -90,6 +86,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&layout=compact&theme=radical)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Mostafaaa&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Mostafaaa&theme=radical)
 <br>
+
 <details close>
     <summary><h2>🏆 GitHub Trophies</h2></summary>
     <div align="center">
@@ -127,3 +124,6 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=abdo_sharaf9)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
  -->
+ <p>
+  <img src="https://img.shields.io/github/last-commit/Mohamed-Mostafaaa/Mohamed-Mostafaaa?color=blue&label=last%20updated&style=flat" />
+</p>
