@@ -38,7 +38,7 @@
 
 <br>
 
-<h3><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="18"/>  LANGUAGES AND TOOLS:</h3>
+<h3> LANGUAGES AND TOOLS:</h3>
     <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" title="C"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -67,13 +67,20 @@
     </p>
 
 <br>
-<h3 ><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="18"/> GITHUB STATS:</h3>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&layout=compact&theme=radical)<br>
+
+
+<details close>
+  <summary><h3> GITHUB STATS: </h3></summary>
+
 <div align="center">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=dark&layout=compact&show_icons=true&locale=en"/>
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=dark&layout=compact&include_all_commits=true&show_icons=true" alt="Mohamed-Mostafaaa" />
 </div>
 
 <br>
+
 
 <div align="center">
 
@@ -83,47 +90,12 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&layout=compact&theme=radical)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Mostafaaa&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Mostafaaa&theme=radical)
 <br>
 
-<details close>
-    <summary><h2>🏆 GitHub Trophies</h2></summary>
-    <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Mostafaaa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=20&margin-h=20&column=-1"/>
-    </div>
+
+   
 </details>
-
-<br>
-
-<details close>
-    <summary><h3>🔝 Top Contributed Repos</h3></summary>
-    <div align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Mohamed-Mostafaaa&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
-    </div>
-</details>
-
----
-
-<!--
-<details open>
-    <summary><h3>✍️ Random Dev Quote</h3></summary>
-    <div align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-    </div>
-</details> -->
-
-<!--
-## 😂 Random Dev Meme
-<div align="center">
-    <img src="https://rm.up.railway.app/" width="512px"/>
-</div>
-
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=abdo_sharaf9)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
- -->
 
  <p>
   <img src="https://img.shields.io/github/last-commit/Mohamed-Mostafaaa/Mohamed-Mostafaaa?color=blue&label=last%20updated&style=flat" />
