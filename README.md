@@ -23,13 +23,12 @@
 
 ## 💫 About Me:
 
-- 🏛 I'm a Computer Science Student at Damietta University.
+- 🏛 I'm a CS Student at Damietta University.
 - 💡 I'm a passionate learner who's always willing to learn and work across technologies and domains
 - ✨ I love to explore new technologies and leverage them to solve real-life problems.
 - 🕸️ I also do some Web Development and learn AI track.
 - 🌱 I’m currently learning Advanced topics in **Machine learning and AI** topic.
 - 👯 I’m looking to collaborate on **AI projects** .
-- 💬 Ask me about **Python, C, C++** .
   <br>
 
 ## 📫 How to reach me
