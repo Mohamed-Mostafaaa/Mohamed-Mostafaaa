@@ -1,16 +1,19 @@
+<!-- @format -->
+
 <h1 align="center">Hi there 👋, I'm Mohamed Mostafa Abdelhamed</h1>
 <h3 align="center">CS Student | ALX SE Student | ML & DL Student</h3>
 
 # 💫 About Me:
-  - I am a CS student at Damietta University and a student at ALX SE, and I am interested in learning new information.
-  - I am improving my overall knowledge of science, computer science, and ML, especially in web and software engineering.
-  - I am currently learning **Backend Python Developer (Flask/Django)** and learning Advanced topics in **Machine learning and Deep learning** topic.
+
+- I am a CS student at Damietta University and a student at ALX SE, and I am interested in learning new information.
+- I am improving my overall knowledge of science, computer science, and ML, especially in web and software engineering.
+- I am currently learning **Backend Python Developer (Flask/Django)** and learning Advanced topics in **Machine learning and Deep learning** topic.
 
 [![](https://visitcount.itsvg.in/api?id=Mohamed-Mostafaaa&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 How to reach me:
-**https://linktr.ee/mohamedmostafaa**
 
+**https://linktr.ee/mohamedmostafaa**
 
 # 💻 Skills:
 
@@ -43,11 +46,14 @@
 
 <br>
 
-
-
 # 📊 GitHub Stats:
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&layout=compact&theme=gotham)
+
+</div>
+
 <div align="center">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=dark&layout=compact&show_icons=true&locale=en"/>
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=dark&layout=compact&include_all_commits=true&show_icons=true" alt="Mohamed-Mostafaaa" />
@@ -59,11 +65,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Mostafaaa&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Mostafaaa&theme=radical)
 <br>
+
 </div>
 
-
-
-   
 <!--
  <p>
   <img src="https://img.shields.io/github/last-commit/Mohamed-Mostafaaa/Mohamed-Mostafaaa?color=blue&label=last%20updated&style=flat" />
